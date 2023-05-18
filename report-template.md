@@ -1,6 +1,4 @@
-# Module 12 Report Template
-
-## Overview of the Analysis
+# Overview of the Analysis
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
