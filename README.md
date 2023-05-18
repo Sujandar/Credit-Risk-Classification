@@ -1,6 +1,6 @@
 # Credit-Risk-Classification
 
-This project aims to develop models for credit risk classification using historical lending data from a peer-to-peer lending services company. The goal is to predict the credit risk associated with each borrower and provide insights for risk assessment and decision-making.
+This project aims to develop models for credit risk classification using historical lending data from a peer-to-peer lending services company. The goal is to predict the credit risk associated with each borrower and provide insights for risk assessment and decision-making. This project focuses on developing models for credit risk classification using historical lending data from a peer-to-peer lending services company. The objective is to predict the credit risk associated with each borrower and provide insights for risk assessment and decision-making.
 
 ## Project Structure
 
